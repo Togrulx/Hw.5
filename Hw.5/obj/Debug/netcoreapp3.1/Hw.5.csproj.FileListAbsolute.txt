@@ -1,0 +1,13 @@
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.csproj.AssemblyReference.cache
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.AssemblyInfoInputs.cache
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.AssemblyInfo.cs
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.csproj.CoreCompileInputs.cache
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/bin/Debug/netcoreapp3.1/Hw.5.deps.json
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/bin/Debug/netcoreapp3.1/Hw.5.runtimeconfig.json
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/bin/Debug/netcoreapp3.1/Hw.5.runtimeconfig.dev.json
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/bin/Debug/netcoreapp3.1/Hw.5.dll
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/bin/Debug/netcoreapp3.1/Hw.5.pdb
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.dll
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.pdb
+/Users/togrultalibov/Desktop/HW.5/Hw.5/Hw.5/obj/Debug/netcoreapp3.1/Hw.5.genruntimeconfig.cache
